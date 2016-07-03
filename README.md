@@ -10,7 +10,7 @@ It's very convenient, but the closing delimiter have been inserted automatically
 
 In `backalittle`, when you wrote a pair of delimiter(opening and closing), the point moves in it automatically. It is another feature of the `electric-pair-mode` :wink:.
 
-It supports (), [], {}, "" and ''.
+It supports (), [], {}, "", '' and <>.
 
 ## Install
 
